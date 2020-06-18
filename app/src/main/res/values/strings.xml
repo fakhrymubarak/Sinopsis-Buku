@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sinopsis Buku</string>
+
+    <string name="book_image">Book Image</string>
+
+    <string name="menu">Home</string>
+    <string name="about">About</string>
+
+    <string name="synopsis">Synopsis</string>
+    <string name="title">Title</string>
+    <string name="writer">Writer</string>
+    <string name="category">Category</string>
+    <string name="rating">Rating</string>
+
+    <string name="developer_name">A. Muh. Fakhry Mubarak</string>
+    <string name="developer_mail">fakhrymubarak@gmail.com</string>
+    <string name="context_source">Sumber Text dan Gambar pada Aplikasi ini:\nGramedia.com</string>
+</resources>
